@@ -1,0 +1,22 @@
+.odd{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(231, 135, 151);
+}
+
+#number{
+  color: blue;
+  font-size: 36px;
+}
+
+#middle{
+  font-size: 24px;
+}
+
+#numbera{
+  background-color: rgb(167, 231, 69);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+
